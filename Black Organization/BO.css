@@ -1,16 +1,16 @@
 /**
- * @name Kogoro
+ * @name Black Organization
  * @author Rons Catfish
  * @version 1.0.X
- * @description A theme with Kogoro Mouri from Meitantei Konan
- * @source https://github.com/Ford-F150/Kogoro-Theme/tree/main
+ * @description A theme with Gin, Vodka & Vermouth from Meitantei Konan
+ * @source https://github.com/Ford-F150/Meitantei-Konan-Themes/tree/main/Black%20Organization
  */
 
 @import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
-@import url('https://raw.githack.com/Ford-F150/Kogoro-Theme/main/core.css');
+@import url('https://raw.githubusercontent.com/Ford-F150/Meitantei-Konan-Themes/main/Black%20Organization/core.css');
 
 :root{
-    --background: url('https://images.alphacoders.com/632/632525.png');
+    --background: url('https://github.com/Ford-F150/Meitantei-Konan-Themes/blob/main/Black%20Organization/394219.jpg');
     --activetext-colour: white;
 
     --primary1-colour: red;
@@ -31,8 +31,8 @@
 /*
 Theme Owned and Made by ronscatfish
   
-Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
-Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
+Background Image: http://gallery.minitokyo.net/view/394219 by Gosho Aoyama
+Transparency CSS: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
 
 ^Copyrights by respective owners. I do not own the sources above^
 */
